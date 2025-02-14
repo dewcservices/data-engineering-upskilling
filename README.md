@@ -1,2 +1,4 @@
 # data-engineering-upskilling
-This repositroy hosts a curriculum for upskilling reprogrammers and operators in Python and data engineering. 
+
+A curriculum for upskilling reprogrammers and operators in Python and data
+engineering.
