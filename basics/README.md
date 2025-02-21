@@ -48,7 +48,7 @@ have entered your password, click `Enter`.
 Upon clicking `Enter`, VSCode will create a new window. This new window is
 configured to give the impression that you are "inside" of your virtual machine.
 We can check this by doing the following. First, open up the terminal. The
-shortcut for opening the terminal in VSCode is `Ctrl+\``.
+shortcut for opening the terminal in VSCode is ``` Ctrl+` ```.
 
 In this terminal, type
 
@@ -67,7 +67,7 @@ Close the SSH session, by again opening the command paletter (via
 
 You will SSH into virtual machines a lot during your career. You can save time
 on entering your password by generating a pair of so-called SSH keys. To
-generate a pair of SSH keys, open your terminal in VSCode (using `Ctrl+\``) and
+generate a pair of SSH keys, open your terminal in VSCode (using ``` Ctrl+` ```) and
 type
 
 ```
@@ -101,7 +101,7 @@ will still need to type your password in - hopefully for the last time!
 
 Create a new file using `Ctrl+N`. Paste the contents of `id_rsa.pub` into the
 new file. Then, save the file using `Ctrl+S`. You will be prompted for a place
-to save the file. Use `~/.ssh/authorized_keys`.
+to save the file. Type in `~/.ssh/authorized_keys` as the save location.
 
 If all has gone to plan, you can close your current session. Upon reopening the
 session, you should not need your password any longer. Again, check that you
