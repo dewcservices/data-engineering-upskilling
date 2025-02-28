@@ -31,6 +31,7 @@ concepts.
 - `export`
 - Super user: `sudo`
 - The `$PATH` environment variable
+- `.bashrc`
 
 ### Important
 
