@@ -9,7 +9,7 @@ able to explain all of the Essential concepts, should be familiar with the
 Important concepts, and have at least attempted to use all of the Optional
 concepts.
 
-<TODO>: Add links to ensure all of the below concepts are covered.
+TODO: Add links to ensure all of the below concepts are covered.
 
 ### Essential
 
