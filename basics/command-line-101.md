@@ -1,4 +1,4 @@
-# Shell 101
+# Command line 101
 
 Start by checking out this great tutorial from
 [Ubuntu](https://ubuntu.com/tutorials/command-line-for-beginners). Once you have
