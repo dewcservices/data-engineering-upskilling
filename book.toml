@@ -4,3 +4,7 @@ language = "en"
 multilingual = false
 src = "src"
 title = "Upskilling in Python and Data Engineering"
+
+[output.html]
+git-repository-url = "https://github.com/dewcservices/data-engineering-upskilling"
+git-repository-icon = "fa-github"
