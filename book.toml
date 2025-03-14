@@ -1,0 +1,6 @@
+[book]
+authors = ["dsgibbons"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Upskilling in Python and Data Engineering"
