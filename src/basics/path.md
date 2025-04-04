@@ -1,5 +1,10 @@
 # The $PATH environment variable
 
+> This article was largely generated using
+> [Claude 3.7 Sonnet](<https://en.wikipedia.org/wiki/Claude_(language_model)#Claude_3.7>).
+> If any of the content is incorrect or unhelpful, please
+> [file an issue](https://github.com/dewcservices/data-engineering-upskilling/issues).
+
 Among the many environment variables, `$PATH` stands out as particularly
 important. Understanding how it works can solve many common problems and enhance
 your experience with the command line. Let's explore what `$PATH` is, why it

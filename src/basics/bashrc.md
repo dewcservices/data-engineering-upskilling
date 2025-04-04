@@ -1,5 +1,10 @@
 # Understanding .bashrc
 
+> This article was largely generated using
+> [Claude 3.7 Sonnet](<https://en.wikipedia.org/wiki/Claude_(language_model)#Claude_3.7>).
+> If any of the content is incorrect or unhelpful, please
+> [file an issue](https://github.com/dewcservices/data-engineering-upskilling/issues).
+
 The `.bashrc` file is an essential component that many newcomers overlook.
 However, understanding this file can significantly enhance your experience with
 the terminal and make your system work better for you. Let's explore what

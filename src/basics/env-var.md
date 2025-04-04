@@ -1,5 +1,10 @@
 # Environment Variables 101
 
+> This article was largely generated using
+> [Claude 3.7 Sonnet](<https://en.wikipedia.org/wiki/Claude_(language_model)#Claude_3.7>).
+> If any of the content is incorrect or unhelpful, please
+> [file an issue](https://github.com/dewcservices/data-engineering-upskilling/issues).
+
 Environment variables are a fundamental concept in Linux systems like Ubuntu,
 but they can be confusing if you're new to computing. Let's explore what they
 are, why they matter, and how to use them effectively.
