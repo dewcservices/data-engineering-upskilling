@@ -32,8 +32,8 @@ You should be able to explain all of the following:
 | Piping                              | [Ubuntu tutorial: A bit of plumbing](https://ubuntu.com/tutorials/command-line-for-beginners#6-a-bit-of-plumbing)                                   |
 | Super user: `sudo`                  | [Ubuntu tutorial: The command line and the superuser](https://ubuntu.com/tutorials/command-line-for-beginners#7-the-command-line-and-the-superuser) |
 | Hidden files                        | [Ubuntu tutoiral: Hidden files](https://ubuntu.com/tutorials/command-line-for-beginners#8-hidden-files)                                             |
-| `.bashrc`                           |                                                                                                                                                     |
 | Environment variables               | [Environment variables 101](./env-var.md)                                                                                                           |
+| `.bashrc`                           | [Understanding .bashrc](./bashrc.md)                                                                                                                |
 | The `$PATH` environment variable    |                                                                                                                                                     |
 
 ### Important concepts
