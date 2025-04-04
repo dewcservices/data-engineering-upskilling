@@ -1,6 +1,6 @@
 # The `touch` command
 
-> This article was largely generated using
+> This article was largely written by
 > [Claude 3.7 Sonnet](<https://en.wikipedia.org/wiki/Claude_(language_model)#Claude_3.7>).
 > If any of the content is incorrect or unhelpful, please
 > [file an issue](https://github.com/dewcservices/data-engineering-upskilling/issues).
