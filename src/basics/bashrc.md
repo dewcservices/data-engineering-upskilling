@@ -31,9 +31,10 @@ The `.bashrc` file serves several important purposes:
 2. **It sets up useful shortcuts**: You can create aliases (custom shortcuts)
    for commands you use frequently.
 
-3. **It establishes your environment variables**: As we learned in our previous
-   discussion, environment variables are like entries in an address book. The
-   `.bashrc` file helps set up permanent entries in this address book.
+3. **It establishes your environment variables**: As we learned in our
+   [previous discussion](./env-var.md), environment variables are like entries
+   in an address book. The `.bashrc` file helps set up permanent entries in this
+   address book.
 
 4. **It runs commands automatically**: Any commands in your `.bashrc` file will
    run each time you open a new terminal.
