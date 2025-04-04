@@ -34,7 +34,7 @@ You should be able to explain all of the following:
 | Hidden files                        | [Ubuntu tutoiral: Hidden files](https://ubuntu.com/tutorials/command-line-for-beginners#8-hidden-files)                                             |
 | Environment variables               | [Environment variables 101](./env-var.md)                                                                                                           |
 | `.bashrc`                           | [Understanding .bashrc](./bashrc.md)                                                                                                                |
-| The `$PATH` environment variable    |                                                                                                                                                     |
+| The `$PATH` environment variable    | [The $PATH environment variable](./path.md)                                                                                                         |
 
 ### Important concepts
 
