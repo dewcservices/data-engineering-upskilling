@@ -126,12 +126,13 @@ Variables created with `export` only last until you close the terminal. To make
 them permanent, you need to add them to configuration files.
 
 For user-specific variables, add them to the `.bashrc` file in your home
-directory:
+directory. The `.bashrc` file is covered in more depth in
+[Understanding .bashrc](./bashrc.md).
 
-1. Open the file using a text editor:
+1. Open the file in VSCode:
 
    ```bash
-   nano ~/.bashrc
+   code ~/.bashrc
    ```
 
 2. Add your export statement at the end of the file:
@@ -140,7 +141,7 @@ directory:
    export MY_VARIABLE="some value"
    ```
 
-3. Save the file and exit (in nano, press Ctrl+O, then Enter, then Ctrl+X)
+3. Save the file and exit.
 
 4. To apply the changes immediately:
    ```bash
@@ -162,10 +163,10 @@ Let's look at some practical examples of using environment variables:
 2. **Setting a default editor**:
 
    ```bash
-   export EDITOR="nano"
+   export EDITOR="code"
    ```
 
-   This tells Ubuntu to use nano as your default text editor.
+   This tells Ubuntu to use VSCode as your default text editor.
 
 3. **Setting API keys for development**:
    ```bash

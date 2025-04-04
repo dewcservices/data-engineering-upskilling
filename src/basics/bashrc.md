@@ -65,10 +65,10 @@ To view the file using the terminal:
 cat ~/.bashrc
 ```
 
-To edit the file using a text editor like nano:
+To edit the file using VSCode:
 
 ```bash
-nano ~/.bashrc
+code ~/.bashrc
 ```
 
 Remember, after making changes to your `.bashrc` file, you need to either:
@@ -106,7 +106,7 @@ environment variables:
 ```bash
 # Add to your .bashrc
 export PATH="$PATH:$HOME/bin"
-export EDITOR="nano"
+export EDITOR="code"
 ```
 
 ### Customising your prompt
